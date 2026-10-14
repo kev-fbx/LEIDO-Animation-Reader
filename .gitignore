@@ -1,3 +1,27 @@
+# Decompiled game code and inputs: local reading only
+research/input/
+research/decompiled/
+research/decompile.log
+vineflower-*.jar
+
+# Build outputs
+agent/build/
+agent/lib/
+app/build/
+
+# Toolchains and dependencies (recreated by setup)
+tools/qt/
+tools/vcpkg/
+tools/vcpkg_installed/
+tools/.venv/
+tools/*.log
+
+# Agent logs and takes when launched from this repo
+runtime/
+
+research/
+__pycache__/
+
 # Prerequisites
 *.d
 
