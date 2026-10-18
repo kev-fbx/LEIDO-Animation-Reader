@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: pzanimator.agent.AgentMain
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
+Implementation-Title: LEIDO PZ Animation Exporter Agent
