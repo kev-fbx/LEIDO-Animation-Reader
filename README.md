@@ -1,6 +1,6 @@
 # LEIDO PZ Animation Exporter
 
-This software runs a Java agent that reads player animation data while the user plays the video game Project Zomboid. The purpose of this tool is to export player animation into a reusable format for cinematic use cases such as rendering in creative software.
+This Windows software runs a Java agent that reads player animation data while the user plays the video game Project Zomboid. The purpose of this tool is to export player animation into a reusable format for cinematic use cases such as rendering in creative software.
 
 * Project Zomboid Build 42.21.0, single-player
 * JDK 25 or newer for building the agent
